@@ -18,7 +18,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) <br>
 
 #### → Algorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nadana0929)](https://solved.ac/nadana0929/)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nadana0929)](https://solved.ac/nadana0929)
 
 ---
 ### 🌱 GitHub Stats
