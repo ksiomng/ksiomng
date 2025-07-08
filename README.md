@@ -1,6 +1,5 @@
 # ksiomng ✨
 ### 🌱 Contact
-- iOS Developer
 - nadana0929@gmail.com <br><br>
 
 ---
