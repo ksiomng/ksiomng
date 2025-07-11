@@ -1,6 +1,8 @@
 # ksiomng ✨
 ### 🌱 Contact
-- nadana0929@gmail.com <br><br>
+- iOS
+- ksiomng@gmail.com <br><br>
+<a href="https://github.com/devxb/gitanimals">  <img src="https://render.gitanimals.org/farms/ksiomng"/> </a>
 
 ---
 ### 🌱 Skill
