@@ -2,7 +2,6 @@
 ### 🌱 Contact
 - iOS
 - ksiomng@gmail.com <br><br>
-<a href="https://github.com/devxb/gitanimals">  <img src="https://render.gitanimals.org/farms/ksiomng"/> </a>
 
 ---
 ### 🌱 Skill
@@ -23,8 +22,7 @@
 
 ---
 ### 🌱 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ksiomng&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksiomng&layout=compact&theme=radical)
+<a href="https://github.com/devxb/gitanimals">  <img src="https://render.gitanimals.org/farms/ksiomng"/> </a>
 
 
 <!--
